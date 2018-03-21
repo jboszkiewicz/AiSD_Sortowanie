@@ -1,0 +1,5 @@
+﻿  Sortowanie.cpp
+c:\users\jakub\documents\studia\laby\aisd\sortowanie\sortowanie\sortowanie.cpp(199): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\jakub\documents\studia\laby\aisd\sortowanie\sortowanie\sortowanie.cpp(205): warning C4474: „scanf_s”: przekazano za dużo argumentów dla ciągu formatowania
+  c:\users\jakub\documents\studia\laby\aisd\sortowanie\sortowanie\sortowanie.cpp(205): note: symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  Sortowanie.vcxproj -> C:\Users\Jakub\Documents\studia\laby\AiSD\Sortowanie\Debug\Sortowanie.exe
